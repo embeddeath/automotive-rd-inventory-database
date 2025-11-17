@@ -1,5 +1,6 @@
 -- 01_DDL_Esquema_Inventario.sql
 -- Creación de la estructura física de la Base de Datos de Inventario R&D.
+USE inventario_rd_automotriz; 
 
 -- 1. TEAM_LEAD
 CREATE TABLE Team_Lead (
